@@ -1,0 +1,21 @@
+declare height
+
+add a do while loop
+
+add a for loop to start the rows
+
+declare the rows as int
+
+make the rows to start a nem line
+
+add a for loop with column
+
+declare the column as int
+
+make the column print #
+
+add for loop for the space
+
+declare space as int
+
+make space print a space
