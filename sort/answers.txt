@@ -1,0 +1,17 @@
+sort1 uses:
+bubble sort
+
+How do you know?:
+was the fasted on  random50000.txt
+
+sort2 uses:
+merge sort
+
+How do you know?:
+was the fasted on sorted50000.txt
+
+sort3 uses:
+selection sort
+
+How do you know?:
+cording to the instructions, and class there are only 3 types os sorting, and for excluding selection is the last one.
